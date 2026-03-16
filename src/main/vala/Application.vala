@@ -9,7 +9,7 @@ using Granite;
 public class TextEditor : Gtk.Application {
     public TextEditor() {
         Object (
-            application_id: "io.vitor.text-editor",
+            application_id: "io.github.vvvvvvitor.write",
             flags: ApplicationFlags.DEFAULT_FLAGS
         );
     }
