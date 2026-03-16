@@ -2,12 +2,22 @@
 
 Edit text documents.
 
-### Installation
+## Building and Installation
 
-TODO. (Currently no installation as I'm still adding the finishing touches.)
+You'll need the following dependencies:
 
-### Dependencies
+* libgranite-7-dev >= 5.4.0
+* libgtk-4-dev
+* meson
+* valac
 
-- granite-7
-- gtk4
-- libadwaita-1
+Run `meson` to configure the build environment and then `ninja` to build
+
+    meson build --prefix=/usr
+    cd build
+    ninja
+
+To install, use `ninja install` then execute with `io.github.vvvvvvitor.write`
+
+    sudo ninja install
+    io.github.vvvvvvitor.write

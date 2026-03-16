@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+    <id>io.github.vvvvvvitor.write</id>
+
+    <name>Write</name>
+    <summary>Edit text documents</summary>
+
+    <metadata_license>CC-BY-4.0</metadata_license>
+    <project_license>GPL-3.0-only</project_license>
+
+    <description>
+        <p>
+            Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
+        </p>
+    </description>
+
+    <launchable type="desktop-id">io.github.vvvvvvitor.write.desktop</launchable>
+</component>

@@ -23,7 +23,14 @@ source_files = files (
 )
 
 application = executable(
-'text-editor',
+meson.project_name(),
 dependencies: dependencies,
 sources: source_files,
+install: true
+)
+
+install_data(
+'data' / 'write.desktop',
+install_dir: get_option('datadir') / 'applications',
+rename: meson.project_name() + '.desktop'
 )

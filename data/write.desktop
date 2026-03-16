@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+
+Name=Write
+Comment=Edit text documents
+Categories=Utility;TextEditor;
+
+Icon=write
+Exec=io.github.vvvvvvitor.write
+Terminal=false
