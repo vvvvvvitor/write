@@ -11,3 +11,7 @@ TODO. (Currently no installation as I'm still adding the finishing touches.)
 - granite-7
 - gtk4
 - libadwaita-1
+
+### License
+
+TODO.
