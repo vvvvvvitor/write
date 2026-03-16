@@ -1,28 +1,17 @@
-# text-editor
+# Write
 
-Provide a description of the project here.
+Edit text documents.
 
 ### Installation
 
-
-List the installation instructions here.
-
-1.
+TODO. (Currently no installation as I'm still adding the finishing touches.)
 
 ### Dependencies
 
-
-List all required / optional dependencies here.
-
-1.
-
-### Contributing
-
-
-If contributions are wanted, either link to a contributing guide or describe what your vision is.
+- granite-7
+- gtk4
+- libadwaita-1
 
 ### License
-Pick a license most suited for your needs. If you do not share it, then no permission will be granted to anyone who
-views or uses the project to do anything with it.
 
-Read more at https://choosealicense.com/
+TODO.
