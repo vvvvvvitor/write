@@ -1,5 +1,5 @@
 project(
-'text-editor',
+'io.github.vvvvvvitor.write',
 'vala', 'c',
 version: '1.0.0',
 license: '',
